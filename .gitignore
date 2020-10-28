@@ -1,4 +1,4 @@
 *.epf
 *.scr
 *.zip
-controlPanel*
+controlPanel.*
