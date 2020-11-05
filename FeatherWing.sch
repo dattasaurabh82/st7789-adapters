@@ -11806,7 +11806,7 @@ Number of pins: &lt;b&gt;2&lt;/b&gt;&lt;b&gt;&lt;P&gt;
 <pinref part="C1" gate="G$1" pin="+"/>
 <wire x1="288.036" y1="85.09" x2="288.036" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="288.036" y1="88.9" x2="292.1" y2="88.9" width="0.1524" layer="91"/>
-<label x="292.1" y="88.9" size="1.27" layer="95" rot="R180" xref="yes"/>
+<label x="292.1" y="88.9" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="LED" class="0">

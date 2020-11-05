@@ -168,7 +168,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.cGVyc29uYWw6dWUyOWY0ZjZhMQ" projecturn="a.cGVyc29uYWw6dWUyOWY0ZjZhMSMyMDE4MTIwNTE2NDAxMDIwMQ" f3durn="urn:adsk.wipprod:dm.lineage:VmoZ-PtBS3ilFIY9rBHXUA" pcbguid="" lastpulledtime="2020-10-22T09:57:44Z" lastsyncedchangeguid="" latestrevisionid="cf3f2bfa-c6b6-4bfa-9688-635780a84dc7" lastsyncedrevisionid="cf3f2bfa-c6b6-4bfa-9688-635780a84dc7" lastboardhashguid="6ef2d9d6-2fc9-d181-b0d8-7940ad44070c" lastpushedtime="2020-10-22T10:03:50Z" linktopcb3d="true"/>
+<fusionsync huburn="a.cGVyc29uYWw6dWUyOWY0ZjZhMQ" projecturn="a.cGVyc29uYWw6dWUyOWY0ZjZhMSMyMDE4MTIwNTE2NDAxMDIwMQ" f3durn="urn:adsk.wipprod:dm.lineage:VmoZ-PtBS3ilFIY9rBHXUA" pcbguid="" lastpulledtime="2020-10-22T09:57:44Z" lastsyncedchangeguid="" latestrevisionid="ae067dc7-eebb-4f98-b7d1-cff1f1d15920" lastsyncedrevisionid="ae067dc7-eebb-4f98-b7d1-cff1f1d15920" lastboardhashguid="6c92ed0f-5150-5c0b-f900-33edd786c7f8" lastpushedtime="2020-10-31T09:47:33Z" linktopcb3d="true"/>
 <plain>
 <dimension x1="-0.508" y1="0" x2="19.284" y2="0" x3="9.388" y3="-3.81" textsize="1.778" layer="48"/>
 <dimension x1="19.284" y1="24.308" x2="19.284" y2="0" x3="22.86" y3="12.154" textsize="1.778" layer="48"/>
@@ -1029,7 +1029,7 @@ design rules under a new name.</description>
 </signal>
 </signals>
 <mfgpreviewcolors>
-<mfgpreviewcolor name="soldermaskcolor" color="0xC8009C00"/>
+<mfgpreviewcolor name="soldermaskcolor" color="0xC8000000"/>
 <mfgpreviewcolor name="silkscreencolor" color="0xFFFEFEFE"/>
 <mfgpreviewcolor name="backgroundcolor" color="0xFF282828"/>
 <mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
